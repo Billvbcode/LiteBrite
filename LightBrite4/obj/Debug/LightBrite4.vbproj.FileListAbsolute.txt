@@ -1,0 +1,12 @@
+C:\Users\Bill\source\repos\LightBrite4\LightBrite4\bin\Debug\LightBrite4.exe.config
+C:\Users\Bill\source\repos\LightBrite4\LightBrite4\bin\Debug\LightBrite4.exe
+C:\Users\Bill\source\repos\LightBrite4\LightBrite4\bin\Debug\LightBrite4.pdb
+C:\Users\Bill\source\repos\LightBrite4\LightBrite4\bin\Debug\LightBrite4.xml
+C:\Users\Bill\source\repos\LightBrite4\LightBrite4\obj\Debug\LightBrite4.vbproj.AssemblyReference.cache
+C:\Users\Bill\source\repos\LightBrite4\LightBrite4\obj\Debug\LightBrite4.Form1.resources
+C:\Users\Bill\source\repos\LightBrite4\LightBrite4\obj\Debug\LightBrite4.Resources.resources
+C:\Users\Bill\source\repos\LightBrite4\LightBrite4\obj\Debug\LightBrite4.vbproj.GenerateResource.cache
+C:\Users\Bill\source\repos\LightBrite4\LightBrite4\obj\Debug\LightBrite4.vbproj.CoreCompileInputs.cache
+C:\Users\Bill\source\repos\LightBrite4\LightBrite4\obj\Debug\LightBrite4.exe
+C:\Users\Bill\source\repos\LightBrite4\LightBrite4\obj\Debug\LightBrite4.xml
+C:\Users\Bill\source\repos\LightBrite4\LightBrite4\obj\Debug\LightBrite4.pdb
